@@ -26,8 +26,11 @@ If you have any questions or inquiries, feel free to reach out to me:
 - Email: adityap.works@gmail.com
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aditya-palande-256787273/)
   
-##Images of my Dashboard
-
+## Images of my Dashboard
+![image1](./Trainity-internship/ss1.png)
+![image1](./Trainity-internship/ss2.png)
+![image1](./Trainity-internship/ss3.png)
+<br>
 
 Feel free to explore the projects and certificates included in this repository. Thank you for visiting!
 
