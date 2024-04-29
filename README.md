@@ -13,7 +13,7 @@ I successfully passed the graduation interview, further validating my skills and
 
 ## Certificates
 - Certificate 1: [Link](/Trainity-internship/Certificates/TrainingCertificate.pdf)
-- Certificate 2: [Link](/Trainity-internship/Certificates/Live Project Completion.pdf)
+- Certificate 2: [Link](/Trainity-internship/Certificates/LiveProjectCompletion.pdf)
 - Certificate 3: [Link](/Trainity-internship/Certificates/InternshipCertificate.pdf)
 
 ## About Trainity Platform
@@ -24,7 +24,8 @@ If you have any questions or inquiries, feel free to reach out to me:
 - Email: adityap.works@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-palande-256787273/)
   
-  
+##Images of my Dashboard
+
 
 Feel free to explore the projects and certificates included in this repository. Thank you for visiting!
 
