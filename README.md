@@ -1,4 +1,6 @@
-# Data Analytics Virtual Internship
+<p align="center">
+    <img src = "./logo.png">
+</p>
 
 ## Overview
 This repository contains the certificates, projects, and other materials related to my Data Analytics Virtual Internship. Through this internship, I gained hands-on experience in various data analytics techniques, tools, and technologies.
