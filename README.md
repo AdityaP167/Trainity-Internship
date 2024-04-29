@@ -24,7 +24,7 @@ Trainity Platform offers virtual internships in Data Analytics, providing practi
 ## Contact Information
 If you have any questions or inquiries, feel free to reach out to me:
 - Email: adityap.works@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-palande-256787273/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aditya-palande-256787273/)
   
 ##Images of my Dashboard
 
